@@ -5,4 +5,3 @@
 =======
 # Gonna make recipe website using basic html knowledge
 # Will beautify site with css and js in future
->>>>>>> Stashed changes
